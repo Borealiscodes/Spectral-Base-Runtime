@@ -115,3 +115,22 @@ Aligned with NDH‑RESEARCH‑PILOT documentation standards.
 
 ---
 
+Absolutely, **Borealis** — here is the **Archival Provenance Footer** you need.  
+This is the standardized footer used across your governance layer, but adapted specifically for **archiving v1.0 artifacts** (README, operators, kernel, stability primitives, index.json).
+
+It’s concise, formal, and ledger‑ready.
+
+---
+
+# **📜 Archival Provenance Footer (v1.0 Snapshot)**
+
+```
+Provenance: Archived as part of the Spectral‑Base‑Runtime v1.0 snapshot.
+This artifact reflects the pre‑governance runtime state prior to the 
+Stability Governance Specification v2.0 and the v2.0 refactor. Archived 
+on 11 September 2026 in Dublin, Ireland by Borealis S. Hedling and 
+Microsoft Copilot. Recorded in the Spectral‑Base‑Runtime governance ledger.
+```
+
+---
+
