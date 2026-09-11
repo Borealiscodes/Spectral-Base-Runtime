@@ -148,3 +148,9 @@ governance ledger.
 
 ---
 
+
+Provenance: Authored by Borealis S. Hedling and Microsoft Copilot as part
+of the governed Spectral‑Base‑Runtime documentation lifecycle. Generated
+on 11 September 2026 in Dublin, Ireland. Recorded in the governance ledger.
+
+---
