@@ -13,3 +13,6 @@
     "legacy/v1.0-snapshot/src/runtime/runtime-kernel.ts"
   ]
 }
+{
+  "readme": "legacy/v1.0-snapshot/README-v1.0.md"
+}
