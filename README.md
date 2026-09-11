@@ -56,6 +56,27 @@ If anything destabilizes, the runtime gently returns a safe output.
 
 ---
 
+# 🧭 Governance Foundations (Reed Credit)
+
+Spectral‑Base‑Runtime’s stability ethos is informed by the **Lean‑verified anti‑collapse invariants** developed by **Jonathan ƒ(n) Reed** (*Lean‑Verified Constructive Reduction of Cook–Levin*, 2026, MIT License). Reed’s work formalizes:
+
+- forward invariance  
+- strict span contraction  
+- monotonicity conditions  
+- operator equivalence  
+- collapse‑resistant constructive reduction  
+
+These invariants provide the **philosophical grounding** for the runtime’s non‑collapse governance model, including the TSG‑aligned stability principles (emotional, conversational, cognitive anti‑collapse and holonomy‑flat forward motion).
+
+The runtime’s geometric stability primitives — including the **Manifold Adjacency Guard** — are **original** and not derived from Reed’s constructive reduction algorithms.
+
+A deeper explanation of this relationship is documented in:
+
+- **Stability Foundations Doc**  
+  *(docs/governance/stability-foundations.md)*
+
+---
+
 # 🧪 What’s New in v2.1
 
 ### ⭐ **Adjacency Guard v2.0 integrated**  
@@ -97,6 +118,8 @@ docs/
   explainers/
     bill-nye-tile-explainer.md
     adjacency-test-explainer.md
+  governance/
+    stability-foundations.md
   archive/
     readme-v2.0.md
 ```
