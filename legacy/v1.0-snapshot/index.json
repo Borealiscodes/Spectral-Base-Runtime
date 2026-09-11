@@ -1,0 +1,15 @@
+{
+  "version": "1.0-snapshot",
+  "operators": [
+    "legacy/v1.0-snapshot/src/operators/gradient.ts",
+    "legacy/v1.0-snapshot/src/operators/divergence.ts",
+    "legacy/v1.0-snapshot/src/operators/laplacian.ts",
+    "legacy/v1.0-snapshot/src/operators/eigenflow.ts"
+  ],
+  "stability": [
+    "legacy/v1.0-snapshot/src/stability/stability-primitives.ts"
+  ],
+  "runtime_kernel": [
+    "legacy/v1.0-snapshot/src/runtime/runtime-kernel.ts"
+  ]
+}
